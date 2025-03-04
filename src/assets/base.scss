@@ -1,0 +1,82 @@
+/* color palette and other size variables */
+:root {
+  --blue: #005597;
+  --gold: #ffc12a;
+
+  --black: #181818;
+  --grey: #616161;
+}
+
+/* light theme */
+:root {
+  --section-text-color: #3d3d3d;
+  --section-background-even: white;
+  --section-background-odd: #f5f5f5;
+
+  --skills-image-background-color-top: white;
+  --skills-image-background-color-bottom: #dbdbdb;
+
+  --experience-timeline-color: #dddddd;
+
+  --project-title-icon-border-color: var(--grey);
+
+  --beonic-logo-invert-value: 0;
+
+  --project-image-opacity: 1;
+
+  --nav-toggle-theme-icon: var(--gold);
+  --highlighted-element: var(--blue);
+}
+
+/* dark theme */
+:root {
+  .dark-theme {
+    --section-text-color: white;
+    --section-background-even: #14191e;
+    --section-background-odd: #101419;
+
+    --skills-image-background-color-top: #4c4c4c;
+    --skills-image-background-color-bottom: var(--section-background-odd);
+
+    --experience-timeline-color: #5f5f5f;
+
+    --project-title-icon-border-color: var(--grey);
+
+    --beonic-logo-invert-value: 0.9;
+
+    --project-image-opacity: 0.8;
+
+    --nav-toggle-theme-icon: #929292;
+    --highlighted-element: var(--gold);
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+  transition:
+    color,
+    background-image,
+    border,
+    border-color,
+    background-color 0.1s ease;
+}
+
+html {
+  overflow-x: hidden;
+  background-color: #0b0b0b;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  font-family: Lato, "Helvetica Neue", sans-serif;
+  font-size: 15px;
+  overflow-x: clip;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

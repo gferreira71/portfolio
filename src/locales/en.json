@@ -1,0 +1,230 @@
+{
+  "home": {
+    "hello": "Hello,",
+    "i_m": "I'm",
+    "nickname": "You can call me ",
+    "discover_btn": "Discover",
+    "i_am_full_dev": "I am a full-stack developer.",
+    "lang_select": "Choose your language :",
+    "lang_select_short": "Choose your language :",
+    "this_site_in_lang": "This website is in ",
+    "click_to_change": "Click here to change."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experiences": "Experiences",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About me",
+    "pp_alt": "My profile picture",
+    "nice_to_meet_you": "Nice to meet you !",
+    "about_1": "I'm Guillaume, a dedicated web developer with over 8 years of experience, currently based in the vibrant city of Lisbon, Portugal. My passion for web technologies drives me to create applications that address my own needs with efficient and user-friendly interfaces.",
+    "about_2": "Over the years, I had the opportunity to work on a wide range of projects, from small websites to large web applications.",
+    "about_3": "If you want to know more about me, you're in the right place ! Feel free to contact me on my social media or by mail !"
+  },
+  "skills": {
+    "title": "My skills",
+    "img_alt": {
+      "html": "HTML logo",
+      "angular": "Angular logo",
+      "java": "Java logo",
+      "javascript": "JavaScript logo",
+      "node_js": "Node.js logo",
+      "react": "React logo",
+      "vue": "Vue logo",
+      "css": "CSS logo",
+      "typescript": "TypeScript logo",
+      "git": "Git logo",
+      "cypress": "Cypress logo"
+    }
+  },
+  "experiences": {
+    "title": "My experiences",
+    "locations": {
+      "lisbon": "Lisbon (Portugal)",
+      "lisbon_and_toulouse": "Lisbon & Toulouse",
+      "toulouse": "Toulouse (France)",
+      "img_alt": "Location"
+    },
+    "beonic": {
+      "img_alt": "Beonic logo",
+      "role": "Senior Front-end developer",
+      "company": "Beonic",
+      "date": "Jan 2024 - Now",
+      "timeline_img_alt": "AI and data analysis sector",
+      "description": {
+        "line_1": "Implemented an interactive replay map for displaying customers influx using Apache Echarts library.",
+        "line_2": "Migrated legacy AngularJS and Jade based components to Angular 16+ and Scala, reducing technical debt and removing critical security weaknesses.",
+        "line_3": "Improved the application notification internal system with customizable and dissmissable alerts."
+      }
+    },
+    "gfi_inetum": {
+      "gfi_img_alt": "GFI logo",
+      "inetum_img_alt": "Inetum logo",
+      "toyota_lexus": {
+        "role": "Front-end developer",
+        "company": "Toyota & Lexus",
+        "date": "Jul 2023-Dec 2023",
+        "timeline_img_alt": "Automotive sector",
+        "description": {
+          "line_1": "Developed customized AEM components for displaying forms and rich media, enabling flexible content management and improving site interactivity.",
+          "line_2": "Executed the transition of legacy components from Java to React, improving maintainability and reducing technical debt.",
+          "line_3": "Involved in the support and maintenance of Toyota and Lexus websites, implementing hotfixes and addressing critical bugs to enhance site reliability and performance."
+        }
+      },
+      "spherea": {
+        "role": "Front-end developer",
+        "company": "SPHEREA",
+        "date": "Oct 2021-Jul 2023",
+        "timeline_img_alt": "Aerospace sector",
+        "description": {
+          "line_1": "Developed a rich editor tool for creating and managing aircraft components tests, procedures and technical documentations using Monaco Editor.",
+          "line_2": "Implemented a page skeleton and multiple generic components, and integrated them in every applications, reducing the overhall front-end code by 20% while improving the development efficiency.",
+          "line_3": "Improved form building and validation by creating a generic form component that handles dynamic form fields and validation rules."
+        }
+      },
+      "sivac": {
+        "role": "Front-end developer",
+        "company": "French ministry of justice",
+        "date": "Apr 2020-Oct 2021",
+        "timeline_img_alt": "Public sector",
+        "description": {
+          "line_1": "Implemented the French government's graphical chart across the application, ensuring all UI components and layouts adhered to mandated branding and visual identity standards.",
+          "line_2": "Led accessibility standards compliance efforts, ensuring all components and interfaces met RGAA (General Accessibility Framework for Administrations) guidelines."
+        }
+      },
+      "navblue": {
+        "role": "Full-stack developer",
+        "company": "NAVBLUE, an Airbus Company",
+        "date": "Jan 2018-Apr 2020",
+        "timeline_img_alt": "Aerospace sector",
+        "description": {
+          "line_1": "Built a job queue system that streamlined task execution and result retrieval, optimizing performance and improving workflow efficiency.",
+          "line_2": "Implemented the \"Optimize assistant\" feature, guiding user accros the whole application according to computed key states.",
+          "line_3": "Consumed AWS services such as Athena and S3, collaborating closely with the DevOps team.",
+          "line_4": "Contributed to the shared UI library for Navblue applications, developing standardized components to ensure uniformity and reusability across multiple applications."
+        }
+      }
+    },
+    "infotel": {
+      "img_alt": "Infotel logo",
+      "airfrance_klm": {
+        "role": "Front-end developer",
+        "company": "Air France & KLM",
+        "date": "Aug 2017-Dec 2017",
+        "timeline_img_alt": "Air transport sector",
+        "description": {
+          "line_1": "Developed highly-customizable dashboards used by the customer service agents to track and manage data related to the Flying Blue fidelity program.",
+          "line_2": "Activly participated in the reducement of the overhall technical dept by adding end-to-end tests and refactoring legacy compoennts."
+        }
+      },
+      "acis": {
+        "role": "Full-stack developer",
+        "company": "Airbus Defence & Space",
+        "date": "Mar 2017-Aug 2017",
+        "timeline_img_alt": "Aerospace sector",
+        "description": {
+          "line_1": "Developed a REST API to retrieve technical documents and a web application made with Ext JS to manage them.",
+          "line_2": "Participated in meetings to define and specify the application requirements regarding the storage of technical documents.",
+          "line_3": "Implemented a basic internal page to monitor the application unit tests."
+        }
+      }
+    }
+  },
+  "projects": {
+    "title": "My projects",
+    "portfolio": {
+      "title": "Portfolio",
+      "logo_alt": "Professional portfolio",
+      "img_alt": "Portfolio screenshot",
+      "description": "The portfolio you are currently browsing. It is a single page that summarizes all my professional life and my personal projects."
+    },
+    "m3u_cleaner": {
+      "title": "M3U Cleaner",
+      "logo_alt": "Media managment tool",
+      "img_alt": "M3U Cleaner screenshot",
+      "description": "The m3u cleaner tool is a web application designed to easily manage media playlists in m3u format. The source file can be a URL or a file to upload, and after an efficient parsing and processing with error handling, it allows the user to view, select, create and download a new playlist."
+    },
+    "staddict": {
+      "title": "Staddict",
+      "logo_alt": "Football fan application",
+      "img_alt": "Staddict screenshot",
+      "description": "Staddict is a web application that allows football fans to track and share their experiences in stadiums around the world. Users can create an account, add their favorite teams, and check-in to games they attend. They can also rate the stadium, the atmosphere, and the game itself. The application also provides statistics and rankings for the best fans, and have a social aspect with a feed of the latest check-ins."
+    },
+    "geo_dataset": {
+      "title": "GeoDataset",
+      "logo_alt": "Scientifical project",
+      "img_alt": "GeoDataset screenshot",
+      "description": "GeoDataset viewer is an update from my application made during my internship at the Climatology Laboratory of the University of Burgundy. It is a web application that allows the user to visualize and compare different climate datasets. The user can select a dataset and a period, and the application will display the data in a graph and a map."
+    },
+    "buttons": {
+      "view_github": "View in Github",
+      "view_live": "View live demo"
+    }
+  },
+  "contact": {
+    "title": "Contact me",
+    "info": {
+      "work_together": "Have a question or want to work together ?",
+      "contact_me": "Contact me on my social networks and I'll get back to you as soon as possible."
+    }
+  },
+  "footer": {
+    "go_to_top": "Go to the top of the page",
+    "goto_linkedin": "Go to my LinkedIn profile",
+    "goto_github": "Go to my Github profile",
+    "goto_mail": "Send me an email",
+    "linkedin_logo": "LinkedIn logo",
+    "github_logo": "Github logo",
+    "animated_background": "Animated parallax stars background",
+    "made_by": "made by"
+  },
+  "common": {
+    "languages": {
+      "en": "english",
+      "fr": "french",
+      "pt": "portuguese"
+    },
+    "stack": {
+      "vue": "Vue",
+      "vue_js": "Vue.js",
+      "react": "React",
+      "angular": "Angular",
+      "angular_js": "AngularJS",
+      "node_js": "Node.js",
+      "express": "Express",
+      "html": "HTML",
+      "css": "CSS",
+      "html_css": "HTML/CSS",
+      "scss": "SCSS",
+      "javascript": "JavaScript",
+      "typescript": "TypeScript",
+      "java": "Java",
+      "scala": "Scala",
+      "photoshop": "Photoshop",
+      "cypress": "Cypress",
+      "jest": "Jest",
+      "git": "Git",
+      "svn": "SVN",
+      "aws": "AWS",
+      "docker": "Docker",
+      "jenkins": "Jenkins",
+      "scrum": "SCRUM",
+      "safe": "SAFe",
+      "aem": "Adobe Experience Manager",
+      "accessibility": "Accessibility",
+      "selenium": "Selenium",
+      "ext_js": "Ext JS",
+      "spring_boot": "Spring Boot",
+      "junit": "JUnit",
+      "lean": "Lean",
+      "code_igniter": "Code Igniter",
+      "php": "PHP",
+      "cucumber": "Cucumber"
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "home": {
+    "hello": "Bonjour,",
+    "i_m": "je suis",
+    "nickname": "Vous pouvez m'appeler ",
+    "discover_btn": "Découvrir",
+    "i_am_full_dev": "Je suis un développeur full-stack.",
+    "lang_select": "Choisissez votre langue :",
+    "lang_select_short": "Choisissez votre langue :",
+    "this_site_in_lang": "Ce site est en ",
+    "click_to_change": "Cliquez ici pour changer."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "experiences": "Expériences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "pp_alt": "Ma photo de profil",
+    "nice_to_meet_you": "Ravi de vous rencontrer !",
+    "about_1": "Je suis Guillaume, un développeur web avec plus de 8 ans d'expérience actuellement basé à Lisbonne (Portugal). Je suis passionné par les technologies web et j'aime créer des interfaces efficaces et attractives.",
+    "about_2": "Au fil des années, j'ai eu l'opportunité de travailler sur une large gamme de projets, allant de petits sites web à de grandes applications web.",
+    "about_3": "Si vous voulez en savoir plus sur moi, vous êtes au bon endroit ! N'hésitez pas à me contacter sur mes réseaux sociaux ou par e-mail !"
+  },
+  "skills": {
+    "title": "Mes compétences",
+    "img_alt": {
+      "html": "Logo HTML",
+      "angular": "Logo Angular",
+      "java": "Logo Java",
+      "javascript": "Logo JavaScript",
+      "node_js": "Logo Node.js",
+      "react": "Logo React",
+      "vue": "Logo Vue",
+      "css": "Logo CSS",
+      "typescript": "Logo TypeScript",
+      "git": "Logo Git",
+      "cypress": "Logo Cypress"
+    }
+  },
+  "experiences": {
+    "title": "Mes expériences",
+    "locations": {
+      "lisbon": "Lisbonne",
+      "lisbon_and_toulouse": "Lisbonne & Toulouse",
+      "toulouse": "Toulouse",
+      "img_alt": "Lieu"
+    },
+    "beonic": {
+      "img_alt": "Logo Beonic",
+      "role": "Développeur Front-end Senior",
+      "company": "Beonic",
+      "date": "Jan 2024 - Maintenant",
+      "timeline_img_alt": "Secteur de l'intelligence artificielle et de l'analyse des données",
+      "description": {
+        "line_1": "Mise en œuvre d'une carte interactive de replay pour afficher l'afflux de clients en utilisant la bibliothèque Apache Echarts.",
+        "line_2": "Migration des composants hérités basés sur AngularJS et Jade vers Angular 16+ et Scala, réduisant la dette technique et éliminant les failles de sécurité critiques.",
+        "line_3": "Amélioration du système interne de notifications de l'application avec des alertes personnalisables et désactivables."
+      }
+    },
+    "gfi_inetum": {
+      "gfi_img_alt": "Logo GFI",
+      "inetum_img_alt": "Logo Inetum",
+      "toyota_lexus": {
+        "role": "Développeur Front-end",
+        "company": "Toyota & Lexus",
+        "date": "Juil 2023-Déc 2023",
+        "timeline_img_alt": "Secteur automobile",
+        "description": {
+          "line_1": "Développement de composants AEM personnalisés pour afficher des formulaires et des médias riches, permettant une gestion flexible du contenu et améliorant l'interactivité du site.",
+          "line_2": "Transition des composants hérités de Java à React, améliorant la maintenabilité et réduisant la dette technique.",
+          "line_3": "Participation au support et à la maintenance des sites Toyota et Lexus, mise en œuvre de correctifs d'urgence et résolution de bugs critiques pour améliorer la fiabilité et les performances du site."
+        }
+      },
+      "spherea": {
+        "role": "Développeur Front-end",
+        "company": "SPHEREA",
+        "date": "Oct 2021-Juil 2023",
+        "timeline_img_alt": "Secteur aérospatial",
+        "description": {
+          "line_1": "Développement d'un outil d'édition riche pour créer et gérer les tests des composants d'avions, les procédures et les documentations techniques avec Monaco Editor.",
+          "line_2": "Mise en œuvre d'un squelette de page et de plusieurs composants génériques, intégrés dans toutes les applications, réduisant le code front-end global de 20 % tout en améliorant l'efficacité du développement.",
+          "line_3": "Amélioration de la création et de la validation de formulaires en développant un composant de formulaire générique qui gère les champs dynamiques et les règles de validation."
+        }
+      },
+      "sivac": {
+        "role": "Développeur Front-end",
+        "company": "Ministère français de la Justice",
+        "date": "Avr 2020-Oct 2021",
+        "timeline_img_alt": "Secteur public",
+        "description": {
+          "line_1": "Mise en œuvre de la charte graphique du gouvernement français dans l'application, garantissant que tous les composants et mises en page UI respectent les normes de branding et d'identité visuelle obligatoires.",
+          "line_2": "Conduite des efforts de conformité aux normes d'accessibilité, garantissant que tous les composants et interfaces respectent les directives RGAA (Référentiel Général d'Accessibilité pour les Administrations)."
+        }
+      },
+      "navblue": {
+        "role": "Développeur Full-stack",
+        "company": "NAVBLUE, une entreprise Airbus",
+        "date": "Jan 2018-Avr 2020",
+        "timeline_img_alt": "Secteur aérospatial",
+        "description": {
+          "line_1": "Développement d'un système de file d'attente des tâches, optimisant l'exécution des tâches et la récupération des résultats, améliorant les performances et l'efficacité des flux de travail.",
+          "line_2": "Implémentation de la fonctionnalité \"Assistant d'optimisation\", guidant l'utilisateur à travers l'application en fonction des états clés calculés.",
+          "line_3": "Utilisation des services AWS comme Athena et S3, en collaboration étroite avec l'équipe DevOps.",
+          "line_4": "Contribution à la bibliothèque UI partagée pour les applications Navblue, en développant des composants standardisés pour assurer l'uniformité et la réutilisabilité dans plusieurs applications."
+        }
+      }
+    },
+    "infotel": {
+      "img_alt": "Logo Infotel",
+      "airfrance_klm": {
+        "role": "Développeur Front-end",
+        "company": "Air France & KLM",
+        "date": "Août 2017-Déc 2017",
+        "timeline_img_alt": "Secteur du transport aérien",
+        "description": {
+          "line_1": "Développement de tableaux de bord hautement personnalisables utilisés par les agents du service client pour suivre et gérer les données liées au programme de fidélité Flying Blue.",
+          "line_2": "Participation active à la réduction de la dette technique globale en ajoutant des tests de bout en bout et en refactorisant les composants hérités."
+        }
+      },
+      "acis": {
+        "role": "Développeur Full-stack",
+        "company": "Airbus Defence & Space",
+        "date": "Mar 2017-Août 2017",
+        "timeline_img_alt": "Secteur aérospatial",
+        "description": {
+          "line_1": "Développement d'une API REST pour récupérer des documents techniques et d'une application web réalisée avec Ext JS pour les gérer.",
+          "line_2": "Participation à des réunions pour définir et spécifier les exigences de l'application concernant le stockage des documents techniques.",
+          "line_3": "Implémentation d'une page interne basique pour surveiller les tests unitaires de l'application."
+        }
+      }
+    }
+  },
+
+  "projects": {
+    "title": "Mes projets",
+    "portfolio": {
+      "title": "Portfolio",
+      "logo_alt": "Portfolio professionnel",
+      "img_alt": "Capture d'écran du portfolio",
+      "description": "Le portfolio que vous parcourez actuellement. C'est une page unique qui résume toute mon expérience professionnel et mes projets personnels."
+    },
+    "m3u_cleaner": {
+      "title": "M3U Cleaner",
+      "logo_alt": "Outil de gestion multimédia",
+      "img_alt": "Capture d'écran de M3U Cleaner",
+      "description": "L'outil M3U Cleaner est une application web conçue pour gérer facilement des playlists multimédias au format m3u. Le fichier source peut être une URL ou un fichier à télécharger, et après un traitement des enregistrements avec gestion des erreurs, il permet à l'utilisateur de visualiser, sélectionner, créer et télécharger une nouvelle playlist."
+    },
+    "staddict": {
+      "title": "Staddict",
+      "logo_alt": "Application pour les fans de football",
+      "img_alt": "Capture d'écran de Staddict",
+      "description": "Staddict est une application web qui permet aux fans de football de suivre et de partager leurs expériences dans les stades du monde entier. Les utilisateurs peuvent créer un compte, ajouter leurs équipes préférées et se connecter aux matchs auxquels ils assistent. Ils peuvent également évaluer le stade, l'ambiance et le match lui-même. L'application fournit également des statistiques et des classements pour les meilleurs fans, et propose un aspect social avec un fil des derniers check-ins."
+    },
+    "geo_dataset": {
+      "title": "GeoDataset",
+      "logo_alt": "Projet scientifique",
+      "img_alt": "Capture d'écran de GeoDataset",
+      "description": "GeoDataset viewer est une mise à jour de mon application réalisée lors de mon stage au Laboratoire de Climatologie de l'Université de Bourgogne. C'est une application web qui permet à l'utilisateur de visualiser et de comparer différents ensembles de données climatiques. L'utilisateur peut sélectionner un ensemble de données et une période, et l'application affichera les données dans un graphique et sur une carte."
+    },
+    "buttons": {
+      "view_github": "Voir sur Github",
+      "view_live": "Voir la démo en ligne"
+    }
+  },
+  "contact": {
+    "title": "Me contacter",
+    "info": {
+      "work_together": "Vous avez des questions ou envie de travailler ensemble ?",
+      "contact_me": "Laissez vos informations et j'y repondrai des que possible."
+    }
+  },
+  "footer": {
+    "go_to_top": "Aller en haut de la page",
+    "goto_linkedin": "Aller sur mon profil LinkedIn",
+    "goto_github": "Aller sur mon profil Github",
+    "goto_mail": "Envoyez-moi un mail",
+    "linkedin_logo": "Logo LinkedIn",
+    "github_logo": "Logo Github",
+    "animated_background": "Arrière plan animé étoilé",
+    "made_by": "fait par"
+  },
+  "common": {
+    "languages": {
+      "en": "anglais",
+      "fr": "français",
+      "pt": "portugais"
+    },
+    "stack": {
+      "vue": "Vue",
+      "vue_js": "Vue.js",
+      "react": "React",
+      "angular": "Angular",
+      "angular_js": "AngularJS",
+      "node_js": "Node.js",
+      "express": "Express",
+      "html": "HTML",
+      "css": "CSS",
+      "html_css": "HTML/CSS",
+      "scss": "SCSS",
+      "javascript": "JavaScript",
+      "typescript": "TypeScript",
+      "java": "Java",
+      "scala": "Scala",
+      "photoshop": "Photoshop",
+      "cypress": "Cypress",
+      "jest": "Jest",
+      "git": "Git",
+      "svn": "SVN",
+      "aws": "AWS",
+      "docker": "Docker",
+      "jenkins": "Jenkins",
+      "scrum": "SCRUM",
+      "safe": "SAFe",
+      "aem": "Adobe Experience Manager",
+      "accessibility": "Accessibilité",
+      "selenium": "Selenium",
+      "ext_js": "Ext JS",
+      "spring_boot": "Spring Boot",
+      "junit": "JUnit",
+      "lean": "Lean",
+      "code_igniter": "Code Igniter",
+      "php": "PHP",
+      "cucumber": "Cucumber"
+    }
+  }
+}

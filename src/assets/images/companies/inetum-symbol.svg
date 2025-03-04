@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="32.81" viewBox="197 6 18 26">
+	<defs>
+		<style>
+		.cls-1 {
+			fill: #00aa9b;
+		}
+
+		.cls-1, .cls-2 {
+			stroke-width: 0px;
+		}
+
+		.cls-2 {
+			fill: #232c4b;
+		}
+		</style>
+	</defs>
+	<path class="cls-1" d="M201.48,6.02v8.76h8.76v8.76h8.76V6.02h-17.52ZM201.48,23.52h-8.76v8.76h8.76v-8.76Z"></path>
+</svg>
